@@ -94,7 +94,7 @@ fun Lista(navController: NavController) {
 
         Button(
             onClick = {
-                navController.navigate("B/JESUS JOCHIS")
+                navController.navigate("B/JESUS ZAMARRIPA")
             },
             colors = ButtonDefaults.buttonColors(
                 containerColor = Color.Magenta),
